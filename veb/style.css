@@ -1,0 +1,76 @@
+.virs {
+    text-align: center;
+    font-size: 75px;
+    margin-top: 8%;
+    
+}
+
+.virs2 {
+     text-align: center;
+     font-size: 50px;
+}
+
+.virs3 {
+    font-size: 35px;
+    margin-left: 12.5%;
+}
+
+.bg {
+    background-color: aliceblue;
+}
+
+.para {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.imageleft {
+    float: left;
+    margin-left: 5%;
+}
+
+.imageright {
+    float: right;
+    margin-right: 5%;
+}
+
+.demTable {
+    border:1px solid #b3adad;
+    border-collapse:collapse;
+    padding:5px;
+    float: right;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.demTable th {
+    border:1px solid #b3adad;
+    padding:5px;
+    background: #f0f0f0;
+    color: #313030;
+}
+.demTable td {
+    border:1px solid #b3adad;
+    text-align:center;
+    padding:5px;
+    background: #ffffff;
+    color: #313030;
+}
+
+.virs4 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.hyper {
+    text-align: left;
+    font-size: 30px;
+    line-height: 2;
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+.tablevirs {
+    margin-left: 78%;
+}
